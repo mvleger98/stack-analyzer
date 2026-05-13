@@ -2,8 +2,8 @@
 import { useState, useEffect } from "react";
 
 // ── REPLACE THESE WITH YOUR REAL STRIPE LINKS ──
-const STRIPE_ONE_TIME = "https://buy.stripe.com/YOUR_ONE_TIME_LINK";
-const STRIPE_MONTHLY = "https://buy.stripe.com/YOUR_MONTHLY_LINK";
+const STRIPE_ONE_TIME = "https://buy.stripe.com/14AbJ17c94P5az20EXcbC00";
+const STRIPE_MONTHLY = "https://buy.stripe.com/7sY9AT7c981h22wdrJcbC01";
 const FREE_LIMIT = 3;
 
 const badgeColors = {
