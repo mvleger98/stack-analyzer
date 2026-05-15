@@ -53,7 +53,7 @@ Be specific, evidence-based, and practical. Only include timing buckets that hav
         "anthropic-version": "2023-06-01",
       },
       body: JSON.stringify({
-        model: "claude-sonnet-4-5",
+        model: "claude-sonnet-4-20250514",
         max_tokens: 2000,
         messages: [{ role: "user", content: prompt }],
       }),
